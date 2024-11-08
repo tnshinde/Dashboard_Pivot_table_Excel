@@ -1,4 +1,5 @@
 Sales Dashboard_Coco_Cola in Excel
+The purpose of (Case Study) project is to analyze and visualize Coca-Cola's sales data, profit and revenue **(different category and brands(dasani, diet coke etc.), B2B2C market (retailers), sales by region)** to provide stakeholders with actionable insights into sales performance, growth trends, and profitability.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/bf0fb5f6-f0cf-40d5-9347-66813ab84f06">
 
