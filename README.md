@@ -1,5 +1,7 @@
 Sales Dashboard_Coco_Cola in Excel
 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/bf0fb5f6-f0cf-40d5-9347-66813ab84f06">
+
 **Project Overview**
 This project focuses on analyzing Coca-Cola's sales data across various regions in the USA over the years 2022 and 2023. The dashboard offers an intuitive interface for users to filter data by region, year, beverage brand, and retailer. It provides actionable insights into sales trends, helping identify top-performing products and regions.
 
@@ -16,5 +18,4 @@ Average Price per Unit
 Operating Profit
 Variance Analysis: Track growth or decline in sales between 2022 and 2023.
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/bf0fb5f6-f0cf-40d5-9347-66813ab84f06">
 
