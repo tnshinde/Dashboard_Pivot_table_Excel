@@ -15,3 +15,6 @@ Units Sold
 Average Price per Unit
 Operating Profit
 Variance Analysis: Track growth or decline in sales between 2022 and 2023.
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/bf0fb5f6-f0cf-40d5-9347-66813ab84f06">
+
